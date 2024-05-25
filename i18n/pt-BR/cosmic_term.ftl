@@ -45,7 +45,7 @@ default-font = Fonte
 default-font-size = Tamanho da fonte
 default-font-stretch = Esticamento da fonte
 default-font-weight = Peso padrão da fonte
-default-dim-font-weight = Peso da fonte clareara
+default-dim-font-weight = Peso da fonte clara
 default-bold-font-weight = Peso da fonte em negrito
 use-bright-bold = Usar negrito brilhante
 
@@ -78,7 +78,7 @@ quit = Sair
 edit = Editar
 copy = Copiar
 paste = Colar
-select-all = Selecione tudo
+select-all = Selecionar tudo
 find = Pesquisar
 
 ## View
